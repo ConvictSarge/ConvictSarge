@@ -1,6 +1,6 @@
 <h1>Hi, I'm Mike! <br/><a href="https://github.com/ConvictSarge">Programmer</a>, <a href="https://www.linkedin.com/in/mike-maiolo/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/channel/UCEDFchhkM_CePrBQ3gaxzjw">YouTuber</a></h1>
 
-<h2> [How it all started](https://github.com/ConvictSarge/How-it-all-Started/tree/main)</h2>
+<h2>[How it all Started]()</h2>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
