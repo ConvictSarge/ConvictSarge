@@ -1,6 +1,6 @@
 <h1>Hi, I'm Mike! <br/>I'm a Cybersecurity <a href="https://github.com/ConvictSarge">Analyst</a> and <a href="https://www.linkedin.com/in/mike-maiolo/">Professional</a></h1>
 
-<h2><b>-[How it all Started](https://github.com/ConvictSarge/How-it-all-Started)</b></h2>h2>
+<h2><a href="https://github.com/ConvictSarge/How-it-all-Started">How it all started</a></h2>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
