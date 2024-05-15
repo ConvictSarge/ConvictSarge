@@ -8,7 +8,6 @@
   - [AWS Cloud Server](https://github.com/ConvictSarge/AWS-Cloud-Server)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/ConvictSarge/Failed-RDP-Map)
-  - [JWipe (Disk Wiping Utility)](https://github.com/ConvictSarge/Jwipe.Project)
   - [Active Directory Bulk User Creation](https://github.com/ConvictSarge/Active-Directory.PowerShell)
   - [FIM (File Integrity Monitor)](https://github.com/ConvictSarge/PowerShell_FIM)
 - <b>C# (.NET Desktop Applications)</b>
