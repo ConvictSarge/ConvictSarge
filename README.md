@@ -9,8 +9,8 @@
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/ConvictSarge/Failed-RDP-Map)
   - [JWipe (Disk Wiping Utility)](https://github.com/ConvictSarge/Jwipe.Project)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Active Directory Bulk User Creation](https://github.com/ConvictSarge/Active-Directory.PowerShell)
+  - [FIM (File Integrity Monitor)](https://github.com/ConvictSarge/PowerShell_FIM)
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
