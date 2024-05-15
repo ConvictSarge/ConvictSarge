@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mike! <br/><a href="https://github.com/ConvictSarge">Cybersecurity Analyst</a>, <a href="https://www.linkedin.com/in/mike-maiolo/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/channel/UCEDFchhkM_CePrBQ3gaxzjw">YouTuber</a></h1>
+<h1>Hi, I'm Mike! <br/>I'm a Cybersecurity <a href="https://github.com/ConvictSarge">Analyst</a> and <a href="https://www.linkedin.com/in/mike-maiolo/">Professional</a></h1>
 
 <b>-[How it all Started](https://github.com/ConvictSarge/How-it-all-Started)</b>
 
@@ -6,10 +6,8 @@
 
 - <b>AWS</b>
   - [AWS Cloud Server](https://github.com/ConvictSarge/AWS-Cloud-Server)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/ConvictSarge/Failed-RDP-Map)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
