@@ -4,16 +4,15 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-
-- <b>SOC Lab</b>
-  - [Home Lab SOC with Automation](https://github.com/ConvictSarge/SOC-Automation-Project)
 - <b>AWS</b>
   - [AWS Cloud Server](https://github.com/ConvictSarge/AWS-Cloud-Server)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/ConvictSarge/Failed-RDP-Map)
   - [Active Directory Bulk User Creation](https://github.com/ConvictSarge/Active-Directory.PowerShell)
   - [FIM (File Integrity Monitor)](https://github.com/ConvictSarge/PowerShell_FIM)
-
+- <b>SOC Lab</b>
+  - [Home Lab SOC with Automation](https://github.com/ConvictSarge/SOC-Automation-Project)
+  
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="MikeMaiolo | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
