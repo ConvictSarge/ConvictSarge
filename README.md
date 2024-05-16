@@ -4,6 +4,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+
+- <b>SOC Lab</b>
+  - [Home Lab SOC with Automation](https://github.com/ConvictSarge/SOC-Automation-Project)
 - <b>AWS</b>
   - [AWS Cloud Server](https://github.com/ConvictSarge/AWS-Cloud-Server)
 - <b>PowerShell</b>
