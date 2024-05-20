@@ -8,8 +8,11 @@
   - [AWS Cloud Server](https://github.com/ConvictSarge/AWS-Cloud-Server)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/ConvictSarge/Failed-RDP-Map)
+  - Active Directory Bulk User Creation with PowerShell -- COMING SOON!!
 - <b>SOC Lab</b>
-  - [Home Lab SOC with Automation](https://github.com/ConvictSarge/SOC-Automation-Project) -- COMING SOON!!
+  - [Home Lab SOC with Automation](https://github.com/ConvictSarge/SOC-Automation-ProjectX) -- IN PROGRESS!!
+  - Vulnerability Management - COMING SOON!!
+  - Keylogger with Email - COMING SOON!!
   
 <h2> 🤳 Connect with me:</h2>
 
