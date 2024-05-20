@@ -9,7 +9,7 @@
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/ConvictSarge/Failed-RDP-Map)
 - <b>SOC Lab</b>
-  - [Home Lab SOC with Automation](https://github.com/ConvictSarge/SOC-Automation-Project)
+  - [Home Lab SOC with Automation](https://github.com/ConvictSarge/SOC-Automation-Project) -- COMMING SOON!!
   
 <h2> 🤳 Connect with me:</h2>
 
