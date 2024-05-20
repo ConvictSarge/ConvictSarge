@@ -1,5 +1,9 @@
 <h1>Hi, I'm Mike! <br/>I'm a Cybersecurity <a href="https://github.com/ConvictSarge">Analyst</a> and <a href="https://www.linkedin.com/in/mike-maiolo/">Professional</a></h1>
 
+[![ISC2 Certified in Cybersecurity](https://images.credly.com/size/110x110/images/2030e43f-8003-4d4b-9630-847add403c87/image.png)](https://www.credly.com/earner/earned/badge/dfd20b3e-3633-4445-9a11-fc11a0a497da) [![Google Cybersecurity Certificate](https://images.credly.com/size/110x110/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png)](https://www.credly.com/earner/earned/badge/c7b78720-503c-475d-821d-a658e19b53e7)
+
+
+
 <h2><a href="https://github.com/ConvictSarge/How-it-all-Started">How it all started</a></h2>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
