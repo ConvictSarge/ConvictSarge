@@ -15,6 +15,8 @@
   - [Home Lab SOC with Automation](https://github.com/ConvictSarge/SOC-Automation-ProjectX) -- IN PROGRESS!!
   - Vulnerability Management - COMING SOON!!
   - Keylogger with Email - COMING SOON!!
+- <b>Tinkering Around</b>
+  - [Pi-Hole](https://github.com/ConvictSarge/Pi-Hole) -- In Progress
   
 <h2> 🤳 Connect with me:</h2>
 
