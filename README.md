@@ -16,7 +16,7 @@
   - Vulnerability Management - COMING SOON!!
   - Keylogger with Email - COMING SOON!!
 - <b>Tinkering Around</b>
-  - [Pi-Hole](https://github.com/ConvictSarge/Pi-Hole) -- In Progress
+  - [Pi-Hole](https://github.com/ConvictSarge/Pi-Hole) 
   
 <h2> 🤳 Connect with me:</h2>
 
