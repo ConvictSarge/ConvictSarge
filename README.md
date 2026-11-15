@@ -30,7 +30,7 @@ Test in a sandbox first, keep a rollback, make the smallest change, verify it on
 
 ### 🎓 Certifications
 
-[![CompTIA Security+ ce Certification](https://images.credly.com/size/110x110/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png)](https://www.credly.com/badges/15bbbebe-308b-461e-842f-9358c3a1caf9/public_url) [![ISC2 Certified in Cybersecurity](https://images.credly.com/size/110x110/images/2030e43f-8003-4d4b-9630-847add403c87/image.png)](https://www.credly.com/badges/dfd20b3e-3633-4445-9a11-fc11a0a497da/public_url) [![Google Cybersecurity Certificate](https://images.credly.com/size/110x110/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png)](https://www.credly.com/badges/c7b78720-503c-475d-821d-a658e19b53e7/public_url)
+[![CompTIA Security+ ce Certification](https://images.credly.com/size/110x110/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob)](https://www.credly.com/badges/f2f351d4-1c54-4b71-9a56-b2a4ae3228b5/public_url) [![ISC2 Certified in Cybersecurity](https://images.credly.com/size/110x110/images/2030e43f-8003-4d4b-9630-847add403c87/image.png)](https://www.credly.com/badges/dfd20b3e-3633-4445-9a11-fc11a0a497da/public_url) [![Google Cybersecurity Certificate](https://images.credly.com/size/110x110/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png)](https://www.credly.com/badges/c7b78720-503c-475d-821d-a658e19b53e7/public_url)
 
 ### 🤝 Connect
 
